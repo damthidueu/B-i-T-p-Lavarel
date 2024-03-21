@@ -13,7 +13,7 @@
         @method('PUT')
         @csrf
         Name: <input type="text" name="" id=""> <br>
-        <input type="submit" value="Add">
+        <input type="submit" value="Edit">
     </form>
 
 </body>
